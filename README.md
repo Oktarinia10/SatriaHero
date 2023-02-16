@@ -1,2 +1,2 @@
-# Pertemuan6PraktikGameDevelopment
+# SatriaHero
 Pembuatan Game Satria Hero menggunakan PyGame 
